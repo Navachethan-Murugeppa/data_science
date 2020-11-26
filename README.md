@@ -4,7 +4,7 @@ Tools used:
 "Jupyter notebook, python, libraries(numpy,pandas,matplotlib,floium,seaborn).
 
 The data set is about the "videogameSales" by "Gregory Smith".
-https://www.kaggle.com/gregorut/videogamesales
+[Data_set](https://www.kaggle.com/gregorut/videogamesales)
 
 
 
