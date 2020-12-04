@@ -6,5 +6,7 @@ Tools used:
 The data set is about the "videogameSales" by "Gregory Smith".
 [Data_set](https://www.kaggle.com/gregorut/videogamesales)
 
+Some examples of analysis are shown below:
+![alt text](https://github.com/[Navachethan-Murugeppa]/[data_science]/images/[master]/1.png?raw=true)
 
 
